@@ -70,7 +70,7 @@ A modern, responsive homepage for a fictional IELTS Institute built with React J
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/piyush080205/IELTS-Institute---Modern-Homepage>
    cd ielts-institute-homepage
    ```
 
