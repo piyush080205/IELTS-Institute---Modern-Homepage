@@ -181,18 +181,6 @@ colors: {
 
 ## 🚀 Deployment
 
-### GitHub Pages
-1. Build the project: `npm run build`
-2. Push to GitHub
-3. Enable GitHub Pages in repository settings
-4. Select the `dist` folder as the source
-
-### Netlify
-1. Connect your GitHub repository
-2. Set build command: `npm run build`
-3. Set publish directory: `dist`
-4. Deploy
-
 ### Vercel
 1. Import your GitHub repository
 2. Vercel will automatically detect Vite
